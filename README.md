@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Software Engineer & Architect | Backend Specialist | Technical Writer & Trainer | Founder of DIGIBOT
+Passionate about building and sustaining high performing teams where each individual is challenged and motivated to deliver in a fast paced environment while bringing their authentic selves to work. Engineers on the team collaborate with principal engineers, product managers, and other stakeholders to reach consensus on the technical approaches to prioritize and deliver results for our customers.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TECHBYSJ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TECHBYSJ) 
