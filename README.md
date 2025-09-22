@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Passionate about building and sustaining high performing teams where each individual is challenged and motivated to deliver in a fast paced environment while bringing their authentic selves to work. Engineers on the team collaborate with principal engineers, product managers, and other stakeholders to reach consensus on the technical approaches to prioritize and deliver results for our customers.
+A passionate Cloud Engineer with hands-on experience in building and supporting scalable, cloud-native solutions. Skilled in AWS, Linux, Python, Docker, Kubernetes, and CI/CD pipeline automation, with a strong focus on reliability and efficiency. Adept at applying modern DevOps practices to streamline deployments, enhance system performance, and ensure seamless user experiences. I am seeking an opportunity to contribute my technical expertise and problem-solving mindset to a forward-thinking team driving innovation in the cloud space.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TECHBYSJ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TECHBYSJ) 
